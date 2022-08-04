@@ -52,3 +52,7 @@ img {
 .col-3 img {
   height: 125px;
 }
+.vacation-packages {
+  font-size: 45px;
+  font-style: oblique;
+}
