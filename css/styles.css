@@ -7,13 +7,14 @@ h3 {
   color: rgb(107, 1, 107);
   font-size: 40px;
   font-weight: bolder;
+  font-size: 1.5em;
 }
 p {
 font-family;
 text-align: center;
 }
 body { 
-    Background-color: light blue;
+  Background-color: light blue;
 }
 blockquote {
   background-color: rgba(249, 175, 122, 0.099);
@@ -31,4 +32,20 @@ li {
 }
 img {
   max-width:100%;
+}
+.col-3 {
+  border-style: solid;
+  border-width: thin;
+  border-color: rgb(128, 128, 128);
+  color: rgb(128, 128, 128);
+  background-color: rgba(249, 175, 122, 0.099);
+}
+.col-3 h2 {
+  color: black;
+}
+.col-3 p {
+  text-align: center;
+}
+.col-3 img {
+  height: 125px;
 }
